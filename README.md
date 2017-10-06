@@ -38,3 +38,13 @@ mysql> show databases;
 
 mysql>
 ```
+
+# Screenshot
+
+### Libraries
+
+![Libraries](/screenshot/Libraries.png)
+
+### day-1
+
+![day-1](/screenshot/day-1.png)
